@@ -10,7 +10,7 @@ url: "https://cn-Alphonse.github.io"          # 这个就是填写你的博客�
 baseurl: ""      # 这个我们不用填写
 # Sidebar settings
 sidebar: true                           # 是否开启侧边栏.
-sidebar-about-description: "说点装逼的话。。。"
-sidebar-avatar:/img/avatar-by.JPG      # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
+sidebar-about-description: "铁废物"
+#sidebar-avatar:      # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
 # Disqus settings（https://disqus.com/）
 #disqus_username: cn-Alphonse
